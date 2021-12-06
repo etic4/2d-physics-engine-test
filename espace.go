@@ -1,6 +1,6 @@
 package main
 
-import ph "github.com/machinbrol/2d-physics-engine"
+import ph "github.com/etic4/2d-physics-engine"
 
 //isVisible retourne true si la forme est dans les limites de la scène, false sinon
 func isVisible(shape ph.Shape) bool {

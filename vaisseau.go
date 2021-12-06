@@ -1,6 +1,6 @@
 package main
 
-import ph "github.com/machinbrol/2d-physics-engine"
+import ph "github.com/etic4/2d-physics-engine"
 
 //ajusteVitesse Freine progressivement
 func ajusteVitesse(obj ph.Shape) {

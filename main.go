@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	ph "github.com/machinbrol/2d-physics-engine"
+	ph "github.com/etic4/2d-physics-engine"
 
 	rl "github.com/gen2brain/raylib-go/raylib"
 )

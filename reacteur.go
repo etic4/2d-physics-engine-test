@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	ph "github.com/machinbrol/2d-physics-engine"
+	ph "github.com/etic4/2d-physics-engine"
 )
 
 const (

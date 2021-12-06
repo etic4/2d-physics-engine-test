@@ -1,4 +1,4 @@
+github.com/etic4/2d-physics-engine v0.0.0-20211206174522-56e232d9123d h1:UIgEOl0ZUw9XZ2nLh+HL9Vq+I2VZEwqEIUbi9kbrFc8=
+github.com/etic4/2d-physics-engine v0.0.0-20211206174522-56e232d9123d/go.mod h1:fis3pjK/FH5fTU+MKnlH0K6a5NmdAOcbHERgK1xZE04=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849 h1:/Z5Piqd55AAQxWS8oEPF1xgDVntA+W0HeEdsb5pbTVk=
 github.com/gen2brain/raylib-go/raylib v0.0.0-20211114111602-29ba3cc50849/go.mod h1:+NbsqGlEQqGqrsgJFF5Yj2dkvn0ML2SQb8RqM2hJsPU=
-github.com/machinbrol/2d-physics-engine v0.0.0-20211206171809-7eaeea81faaa h1:neiGQ8eDV3Zg3RIdMCkWS+/IaWbZIltKvQFncf1l3wE=
-github.com/machinbrol/2d-physics-engine v0.0.0-20211206171809-7eaeea81faaa/go.mod h1:SKcYxe7WNaHAhyxSwtHRzSl+50crv7J++ltYpsp49bg=
